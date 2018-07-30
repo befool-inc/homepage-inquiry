@@ -1,0 +1,10 @@
+{
+  "description": "homepage inquiry",
+  "runtime": "python3.6",
+  "handler": "main.handler",
+  "environment": {
+    "REGION": "us-west-2",
+    "FROM_NAME": "BEFOOL お問い合わせ",
+    "FROM_MAIL": "info@befool.co.jp"
+  }
+}

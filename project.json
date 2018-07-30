@@ -1,0 +1,8 @@
+{
+  "name": "homepage-lambda",
+  "description": "homepage-lambda",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::018505467147:role/homepage-lambda_lambda_function",
+  "environment": {}
+}
