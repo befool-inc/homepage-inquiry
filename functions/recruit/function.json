@@ -1,5 +1,5 @@
 {
-  "description": "homepage inquiry",
+  "description": "homepage recruit",
   "runtime": "python3.6",
   "handler": "main.handler",
   "environment": {
